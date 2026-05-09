@@ -237,3 +237,4 @@ For issues or feature requests, create an issue in the repo.
 ---
 
 Made with ❤️ by Ahza
+# bg-remover-app
